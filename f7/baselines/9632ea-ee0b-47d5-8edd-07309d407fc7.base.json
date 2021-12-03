@@ -7,11 +7,11 @@
             "iterations": 1,
             "std_devs": 3,
             "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": true
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
         "fn": 30,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 30,
         "outlier_excluded": [],
         "reviewed": true,
@@ -48,11 +48,11 @@
             "iterations": 1,
             "std_devs": 3,
             "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": true
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
         "fn": 30,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 30,
         "outlier_excluded": [],
         "reviewed": true,
