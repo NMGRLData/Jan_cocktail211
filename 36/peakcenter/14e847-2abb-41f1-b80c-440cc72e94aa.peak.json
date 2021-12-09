@@ -1,0 +1,42 @@
+{
+    "AX": {
+        "center_dac": 5.877685386658083,
+        "center_signal": 142.45299806592416,
+        "high_dac": 5.884869755395558,
+        "high_resolving_power": 1151.7941207617291,
+        "high_signal": 105.84073536237977,
+        "low_dac": 5.870501017920608,
+        "low_resolving_power": 1109.4204575538706,
+        "low_signal": 106.62222320468763,
+        "points": "QLubHkLCjURAu6OYQQRbS0C7rBFAEQNhQLu0i0AO51xAu70EQNik3UC7xX5BqVwBQLvN90JQHx1Au9ZxQrGcEUC73upC7GLsQLvnZEMGGORAu+/dQwv67EC7+FdDDd4fQLwA0EMOVCNAvAlJQw3+nEC8EcNDDkt+QLwaPEMOcVBAvCK2Qw44gUC8Ky9DDhDtQLwzqUMNhNNAvDwiQwwa30C8RJxDBuQNQLxNFULt27BAvFWPQquIiEC8XghCQJIdQLxmgkGgii1AvG77QMc/pEC8d3U/x5UDQLx/7j8GTjNAvIhnPp4+QEC8kOE9sJRL",
+        "resolution": 271.5694451798573
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLubHjmiM/lAu6OYAAAAAEC7rBEAAAAAQLu0izmiM/lAu70EOsrA+EC7xX468033QLvN9zrzTfdAu9ZxOvNN90C73uo78038QLvnZDzIODtAu+/dPR+rQkC7+Fc9T9LBQLwA0D2An1dAvAlJPXmkOkC8EcM9jzIKQLwaPD2DylxAvCK2PYUOxUC8Ky89hGyRQLwzqT1rs7xAvDwiPY6P1kC8RJw9k6F4QLxNFT1mohpAvFWPPWkq60C8Xgg9OQNpQLxmgjzfB45AvG77PE/SoUC8d3U73wd8QLx/7juDyjxAvIhnOqIz+kC8kOEAAAAA",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.877745506898564,
+        "center_signal": 974.4961850284828,
+        "high_dac": 5.885410837559887,
+        "high_resolving_power": 1165.6309555327284,
+        "high_signal": 730.5477402659851,
+        "low_dac": 5.870080176237241,
+        "low_resolving_power": 1148.5000031146703,
+        "low_signal": 725.9186975987777,
+        "points": "QLubHkQrmZ9Au6OYQptCL0C7rBFBsuCmQLu0i0GoJgRAu70EQoRQcUC7xX5DTJoyQLvN90PfRMxAu9ZxRC2zBkC73upEV961QLvnZERrMkFAu+/dRHFlX0C7+FdEc0+EQLwA0ERzlEpAvAlJRHOfr0C8EcNEc4vIQLwaPERzhRdAvCK2RHODjEC8Ky9Ec2K8QLwzqURzLKBAvDwiRHIdkEC8RJxEbbz0QLxNFURedxZAvFWPRDTiSUC8XghD7CeMQLxmgkNoTn5AvG77QqxeUkC8d3VBymY9QLx/7kDMOKxAvIhnP6ruL0C8kOE95bCs",
+        "resolution": 260.7133340393301
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
