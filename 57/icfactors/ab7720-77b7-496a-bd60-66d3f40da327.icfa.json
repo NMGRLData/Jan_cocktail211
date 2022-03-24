@@ -6,7 +6,7 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.000452548213141237,
+        "error": 0.0004664420507163809,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -87,7 +87,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 295.5,
-        "value": 0.9920082016033444
+        "value": 0.9919694987017846
     },
     "H1": {
         "error": 1e-20,
